@@ -54,3 +54,8 @@ code {
 button {
   font-size: calc(10px + 2vmin);
 }
+
+nav ul {
+  display: flex;
+  gap: 20px;
+}
